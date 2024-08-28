@@ -1,7 +1,7 @@
 # Star-DataSet-1 Analysis
 
 ## Project Overview:
-The project revolves around the classification of celestial objects—stars, galaxies, and quasars—based on their spectral properties. Leveraging data from the Sloan Digital Sky Survey (SDSS), the aim is to employ machine learning techniques to categorize these objects. Understanding the unique characteristics of each object, such as right ascension, declination, photometric filters, and redshift, enables insightful exploration of their physical attributes and evolutionary stages.
+The project revolves around the classification of celestial objects—stars, galaxies, and quasars—based on their spectral properties. Leveraging data from the Sloan Digital Sky Survey (SDSS), the aim is to employ machine learning techniques to categorize these objects. Understanding the unique characteristics of each object, such as right ascension, declination, photometric filters, and redshift, enables insightful exploration of their physical attributes and evolutionary stages. 
 
 ## Data Columns:
 1. obj_ID: Object Identifier, unique to the SDSS image catalog.
